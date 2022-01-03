@@ -2,3 +2,20 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+li {
+  background-color: yellow;
+}
+
+.row {
+  justify-content: center;
+  display: flex;
+}
+
+div {
+  padding: 6px;
+}
+
+.blue {
+  color: blue;
+}
